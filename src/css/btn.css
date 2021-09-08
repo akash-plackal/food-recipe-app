@@ -1,0 +1,16 @@
+.btn {
+  border: none;
+  text-transform: uppercase;
+  margin-left: 5px;
+  padding: 10px 25px;
+  border-radius: 9px;
+  transition: 10ms ease-in 10ms;
+}
+
+.btn:active {
+  background-color: rgb(211, 211, 211);
+}
+
+.add-btn {
+  padding: 2.5rem;
+}
